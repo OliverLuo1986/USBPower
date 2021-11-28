@@ -1,12 +1,12 @@
 Board Information Report
-Filename     : F:\ÖÉêÍ¾ý\OpenHeat-main\1.Hardware\OpenHeat\OpenHeat.PcbDoc
-Date         : 2021/10/27
-Time         : 14:18:53
+Filename     : F:\github\USBPower\USBPower\01 Hardware\OpenHeat.PcbDoc
+Date         : 2021/11/28
+Time         : 0:10:24
 Time Elapsed : 00:00:00
 
 Routing Information
     Routing completion, 100.00%
-    Connections, 219
-    Connections routed, 219
+    Connections, 236
+    Connections routed, 236
     Connections remaining, 0
 count : 4
